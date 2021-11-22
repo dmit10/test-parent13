@@ -1,0 +1,8 @@
+[map "e7f48a1a-738c-3625-bed0-7c8b52c5311d"]
+	object = 1c4bc1b581521076f8fd65efdb79b5892fc21a10
+	type = include + expand tree
+[map "2acd947e-9a97-37e1-ae5b-d37a276710a2"]
+	object = 0e53677c831198f847598c43c031d341a7a00d0f
+	path = module
+	stage = sync
+	type = expand module
